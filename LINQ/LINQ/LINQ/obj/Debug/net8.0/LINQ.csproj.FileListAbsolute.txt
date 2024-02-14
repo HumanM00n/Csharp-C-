@@ -1,0 +1,14 @@
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\bin\Debug\net8.0\LINQ.exe
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\bin\Debug\net8.0\LINQ.deps.json
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\bin\Debug\net8.0\LINQ.runtimeconfig.json
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\bin\Debug\net8.0\LINQ.dll
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\bin\Debug\net8.0\LINQ.pdb
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfoInputs.cache
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfo.cs
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.csproj.CoreCompileInputs.cache
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.dll
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\refint\LINQ.dll
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.pdb
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\LINQ.genruntimeconfig.cache
+C:\wamp64\www\MR\LanguageProg\LINQ\LINQ\LINQ\obj\Debug\net8.0\ref\LINQ.dll
